@@ -1,0 +1,69 @@
+/**
+Header
+*/
+
+header {
+  color: #3821e1;
+  font-family: 'Noto Sans KR', sans-serif; text-align: center;
+  position: relative;
+}
+
+header i {
+  position: absolute;
+  top: 55%; left: 22%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+}
+header span {
+  position: absolute;
+  top: 50%; left: 55%;
+  transform: translate(-50%, -50%);
+}
+
+
+#EEG {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+#SignalProcessing {
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 8.8px;
+  line-height: 12px;
+}
+
+
+
+/* nav */
+
+nav {
+  position: relative;
+  color: #3821e1;
+  font-family: 'Noto Sans KR', sans-serif; text-align: center;
+  font-size: 15px; font-weight: 600;
+  position: relative;
+}
+
+.Nav_Button {
+  position: absolute;
+  top: 60%;
+  transform: translate(-50%, -50%);
+}
+
+
+#button01 {
+  left: 20%;
+}
+
+#button02 {
+  left: 40%;
+}
+
+#button03 {
+  left: 60%;
+}
+
+#button04 {
+  left: 80%;
+}
